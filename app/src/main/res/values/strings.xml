@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">StopWatch</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="reset_button">reset button</string>
+    <string name="pause_button">pause button</string>
+    <string name="play_button">play button</string>
+    <string name="_00_00_00">00:00:00</string>
 </resources>
